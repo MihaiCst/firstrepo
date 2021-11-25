@@ -7,7 +7,8 @@ namespace firstrepos
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            Console
+            Console.BackgroundColo
+            Console.WriteLine 
         }
     }
 }
