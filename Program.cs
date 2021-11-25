@@ -9,7 +9,7 @@ namespace firstrepos
             Console.WriteLine("Hello World!");
             Console.ReadLine(Action)
             Console.WriteLine(Boolean)
-            Console.Beep(Boolean)
+            Console.Beep(Boolean)boop
         }
     }
 }
