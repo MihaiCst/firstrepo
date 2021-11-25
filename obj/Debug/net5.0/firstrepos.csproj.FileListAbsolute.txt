@@ -1,0 +1,5 @@
+C:\Users\Mi\OneDrive\Documents\GitHub\firstrepo\obj\Debug\net5.0\firstrepos.csproj.AssemblyReference.cache
+C:\Users\Mi\OneDrive\Documents\GitHub\firstrepo\obj\Debug\net5.0\firstrepos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mi\OneDrive\Documents\GitHub\firstrepo\obj\Debug\net5.0\firstrepos.AssemblyInfoInputs.cache
+C:\Users\Mi\OneDrive\Documents\GitHub\firstrepo\obj\Debug\net5.0\firstrepos.AssemblyInfo.cs
+C:\Users\Mi\OneDrive\Documents\GitHub\firstrepo\obj\Debug\net5.0\firstrepos.csproj.CoreCompileInputs.cache

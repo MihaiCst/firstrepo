@@ -8,6 +8,7 @@ namespace firstrepos
         {
             Console.WriteLine("Hello World!");
             Console
+            Console.WriteLine
         }
     }
 }
